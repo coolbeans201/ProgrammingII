@@ -1,0 +1,11 @@
+busstops=<[Rawling],70,10> <BS1,75,15> <[Reitz],95,35> <BS2,90,50> <[Macguire],75,50> <[SweetBay],95,70>
+line=20
+route=<Rawling,0> <BS1,0> <Reitz,7> <BS2,0> <SweetBay, 5>
+start=6:00
+last=8:00
+period=15
+line=21
+route=<Reitz,0> <BS2,0> <Macguire,11> 
+start=9:30
+last=13:15
+period=25
